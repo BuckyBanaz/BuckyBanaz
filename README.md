@@ -33,7 +33,7 @@ I'm a **Flutter & Full-Stack Developer** building **production-ready mobile appl
 ![GetX](https://img.shields.io/badge/GetX-FF6B6B?style=for-the-badge&logo=getx&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white)
 
-### 40
+### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
